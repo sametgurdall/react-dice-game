@@ -50,7 +50,7 @@ A component for Player 1 to update their name using an input field.
 
 ## Live Demo
 
-Check out the live version of the project here: [Live Demo](#)
+Check out the live version of the project here: [Live Demo](https://lucky-panda-12b55e.netlify.app)
 
 ## Folder Structure
 
