@@ -4,7 +4,7 @@ import React from "react";
 const Dice = ({ number }) => {
     return (
       <div className="dice">
-        <img src={`/src/assets/dice${number}.png`} alt={`dice ${number}`} />
+        <img src={`/dice${number}.png`} alt={`dice ${number}`} />
         
       </div>
     );
